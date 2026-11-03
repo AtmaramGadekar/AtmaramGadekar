@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hi there! 👋 I'm Atmaram (Amit) Gadekar
 I'm an Information Technology undergraduate based in Chhatrapati Sambhajinagar, India, with a strong passion for full-stack web development (MERN stack), IoT systems, software devlopment, blockchain applications, and UAV intelligence platforms
 
 
