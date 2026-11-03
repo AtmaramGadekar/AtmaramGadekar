@@ -1,6 +1,6 @@
 # Hey, I'm Atmaram (Amit) 👋
 
-I'm an Information Technology undergraduate based in Chhatrapati Sambhajinagar, India, with a strong passion for full-stack web development (MERN stack), IoT systems, software development, blockchain applications, and UAV intelligence platforms.
+I'm an Information Technology undergraduate from MGM university (expected in 2027) based in Chhatrapati Sambhajinagar, India, with a strong passion for full-stack web development (MERN stack), IoT systems, software development, blockchain applications, and UAV intelligence platforms.
 
 ---
 
